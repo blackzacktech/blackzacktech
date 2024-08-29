@@ -14,8 +14,8 @@
 
 <p align="left">
 <code><a href="https://discord.com/users/432315647238733844" target="_blank"><img src="./assets/readme/svg/discord.svg" alt="Discord logo" width="30" height="30"/></a></code>
-<code><a href="mailto:majonezexe@protonmail.com" target="_blank"><img src="./assets/readme/svg/protonmail.svg" alt="Email" width="30" height="30"/></a></code>
-<code><a href="https://www.youtube.com/c/Majonezexe" target="_blank"><img src="./assets/readme/svg/youtube.svg" alt="YouTube logo" width="30" height="30"/></a></code>
+<code><a href="mailto:mail@blackzack.tech" target="_blank"><img src="./assets/readme/svg/protonmail.svg" alt="Email" width="30" height="30"/></a></code>
+<code><a href="https://www.youtube.com/" target="_blank"><img src="./assets/readme/svg/youtube.svg" alt="YouTube logo" width="30" height="30"/></a></code>
 <code><a href="https://steamcommunity.com/profiles/76561198972748191" target="_blank"><img src="./assets/readme/svg/steam.svg" alt="Steam logo" width="30" height="30"/></a></code>
 <code><a href="https://open.spotify.com/user/p0ragycx0ie5yq000dw7671b0" target="_blank"><img src="./assets/readme/svg/spotify.svg" alt="Spotify logo" width="30" height="30"/></a></code>
 </p>
